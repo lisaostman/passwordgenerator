@@ -1,0 +1,23 @@
+.pretty {
+    background-color: rgb(227, 241, 248);
+    text-align:center;
+    color: rgb(93, 106, 119);
+}
+
+.pretty2 {
+    background-color: white;
+    text-align: left;
+}
+
+textarea.hellothere {
+    width:100%;
+    border: dashed grey 2px;
+    border-radius: 5px;
+}
+
+.btn-greyy {
+    background-color: rgb(180, 179, 179);
+    color: white;
+    border-color: rgb(180, 179, 179);
+}
+ 
